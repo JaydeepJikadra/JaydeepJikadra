@@ -95,7 +95,7 @@
   <h2 style="display: inline-block">Platforms and tools</h2>
   <a href="https://skillicons.dev">
     <!-- DB -->
-    <img src="https://skillicons.dev/icons?i=aws,dynamodb,firebase,figma,git,github,postman,vscode,eclipse,androidstudio,gradle,jenkins,maven,selenium&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,dynamodb,firebase,figma,git,github,postman,vscode,eclipse,androidstudio,gradle,jenkins,maven,selenium&perline=14" />
   </a>
 </p>
 
