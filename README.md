@@ -60,9 +60,8 @@
 - Proficiency in utilizing OAuth and custom authentication methods within web contexts.
 - Advocate of principles such as DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), and Atomic design while implementing solutions.
 - Ability to craft well-documented, immaculate code, adhering to industry best practices.
-You can copy and paste this Mar
 
-- 📫 Feel free to reach me at **jikadrajaydeep@gmail.com**
+📫 Feel free to reach me at **jikadrajaydeep@gmail.com**
 <!--Intro end-->
 
 
