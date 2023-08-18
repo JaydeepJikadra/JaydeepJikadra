@@ -61,7 +61,6 @@
 - Advocate of principles such as DRY (Don't Repeat Yourself), KISS (Keep It Simple, Stupid), and Atomic design while implementing solutions.
 - Ability to craft well-documented, immaculate code, adhering to industry best practices.
 
-📫 Feel free to reach me at **jikadrajaydeep@gmail.com**
 <!--Intro end-->
 
 
